@@ -1,3 +1,4 @@
+<script setup></script>
 <template>
     <div>
         <aside class="ml-[-100%] fixed z-10 top-0 pb-3 px-4 h-screen w-full flex flex-col justify-betweenh-screen border-slate-700 bg-slate-800 transition duration-300 md:w-4/12 lg:ml-0 lg:w-[25%] xl:w-[20%] 2xl:w-[15%]">
@@ -21,11 +22,3 @@
         </div>
     </div>
 </template>
-<script>
-export default {
-    
-}
-</script>
-<style>
-    
-</style>
